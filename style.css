@@ -1,0 +1,53 @@
+.container{
+height: 800px;
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
+background-color: black;
+border: 1px solid white;
+}
+
+.top{
+  height: 395px;
+  width: 100%;
+  border: 1px solid white;background-color: blue;
+}
+
+.down{
+  height: 395px;
+  width: 100%;
+  border: 1px solid white;
+  background-color: brown;
+}
+
+.top1{
+  height: 100%;
+  width: 49%;
+  background-color: yellow;
+  border: 1px solid brown;
+  float: left;
+}
+
+.top2{
+  height: 100%;
+  width: 49%;
+  background-color: aquamarine;
+  border: 1px solid orange;
+  float: right;
+}
+
+.down1{
+  height: 100%;
+  width: 49%;
+  background-color: tomato;
+  border: 1px solid yellow;
+  float: left;
+}
+.down2{
+  height: 100%;
+  width: 49%;
+  background-color: green;
+  border: 1px solid aqua;
+  float: right;
+}
+
